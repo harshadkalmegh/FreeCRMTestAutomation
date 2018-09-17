@@ -1,0 +1,15 @@
+
+public class Array {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] mylist;
+		mylist=new int[2];
+		mylist[0]=1;
+		mylist[1]=2;
+		mylist[2]=3;
+
+	}
+
+}

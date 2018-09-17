@@ -1,0 +1,18 @@
+
+public class Switchcase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int i=5;
+		
+		switch(i)
+		{
+		
+		case 1:
+		System.out.println("value is I");
+		}
+
+	}
+
+}

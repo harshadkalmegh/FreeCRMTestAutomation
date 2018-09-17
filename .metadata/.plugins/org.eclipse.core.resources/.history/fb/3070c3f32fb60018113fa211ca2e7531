@@ -1,0 +1,18 @@
+
+public class mee {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String s1="Java";
+		String s2="Java";
+		System.out.println(s1==s2);
+		
+		String s=new StringBuffer(s1).reverse().toString();
+		System.out.println(s);
+		
+		String s3="harshad";
+		String s3=s1.toUpperCase();
+	}
+
+}

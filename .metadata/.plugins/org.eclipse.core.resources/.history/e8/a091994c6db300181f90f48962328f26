@@ -1,0 +1,16 @@
+import java.util.HashMap;
+
+public class HashMapEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		HashMap<Integer,String> hm=new HashMap<Integer,String>();
+		hm.put(0, "Harshad");
+		hm.put(1, "Rahul");
+		hm.put(2, "Mike");
+		hm.put(3, "Java");
+
+	}
+
+}

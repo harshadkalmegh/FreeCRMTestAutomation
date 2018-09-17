@@ -1,0 +1,12 @@
+import java.util.HashMap;
+
+public class HashMapEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		HashMap<String> hm=new HashMap<String>();
+
+	}
+
+}

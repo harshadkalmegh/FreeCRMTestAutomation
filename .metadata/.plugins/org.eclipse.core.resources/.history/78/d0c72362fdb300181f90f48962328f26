@@ -1,0 +1,29 @@
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class BrokenLink {
+
+	public static <WebElement, Webdriver> void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty("webdriver.gecko.driver","C:\\Users\\Kalmegh\\Desktop\\Selenium\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver();
+		
+		List<WebElement> LinkList=driver.findElements(By.tagName("a"));
+		LinkList.addAll(driver.findElements(By.tagName("img")));
+		
+		List<WebElement> activelist=new ArrayList<WebElement>();
+		
+		for(int i=0;i<LinkList.size().i++)
+		if(LinkList.get(i).getAttribute(i) !=null){
+			activelist.add(LinkList.get(i))
+		}
+		
+
+	}
+
+}

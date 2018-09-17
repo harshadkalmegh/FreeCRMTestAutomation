@@ -1,0 +1,11 @@
+package com.qa.test;
+
+public class HomePageTest {
+	
+	@Test
+	public void Homet(){
+		
+		System.out.println("Home page test");
+	}
+
+}

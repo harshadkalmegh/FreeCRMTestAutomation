@@ -1,0 +1,18 @@
+
+public class Casting {
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		// It called Implicitly Type casting
+		int x='a';
+		System.out.println(x);
+		//It called explicitly type casting 
+		int y=130;
+		byte b=byte (y);
+		System.out.println(b);
+	}
+
+}

@@ -1,0 +1,24 @@
+
+public class Array {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] mylist;
+		mylist=new int[3];
+		mylist[0]=1;
+		mylist[1]=2;
+		mylist[2]=3;
+		System.out.println(mylist[0]);
+		
+		int array[] = new int[7];
+        for (int count=0;count<7;count++){
+           array[count]=count;
+       }
+       for (int count=0;count<7;count++){
+           System.out.println("array["+count+"] = "+array[count]);
+       }
+
+	}
+
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69" started-at="2017-03-11T04:23:32Z" finished-at="2017-03-11T04:23:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69" started-at="2017-03-11T04:23:32Z" finished-at="2017-03-11T04:23:32Z">
+      <class name="Testgn3.FiveClass">
+        <test-method status="PASS" signature="Thrid()[pri:89, instance:Testgn3.FiveClass@458ad742]" name="Thrid" duration-ms="20" started-at="2017-03-11T09:53:32Z" finished-at="2017-03-11T09:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thrid -->
+        <test-method status="PASS" signature="Second()[pri:92, instance:Testgn3.FiveClass@458ad742]" name="Second" duration-ms="0" started-at="2017-03-11T09:53:32Z" finished-at="2017-03-11T09:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Second -->
+        <test-method status="PASS" signature="first()[pri:90, instance:Testgn3.FiveClass@458ad742]" name="first" duration-ms="0" started-at="2017-03-11T09:53:32Z" finished-at="2017-03-11T09:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="fourth()[pri:100, instance:Testgn3.FiveClass@458ad742]" name="fourth" duration-ms="0" started-at="2017-03-11T09:53:32Z" finished-at="2017-03-11T09:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+      </class> <!-- Testgn3.FiveClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

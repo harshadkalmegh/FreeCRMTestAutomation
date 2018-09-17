@@ -1,0 +1,20 @@
+
+public class Constrcutor {
+	
+	//default Constructor
+	public Constrcutor(){
+		System.out.println("default Constructor");
+	}
+
+	//Single Parameter constructor
+	public Constrcutor(int i){
+		System.out.println("default Constructor");
+		System.out.println("Value of i is"+i);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
